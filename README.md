@@ -31,7 +31,7 @@ trackr/
 ├── go.mod
 ├── main.go
 ├── README.md
-
+```
 
 ## Installation
 Clone the repo
@@ -39,7 +39,7 @@ Clone the repo
 git clone https://github.com/CBYeuler/trackr.git
 cd trackr
 ```
-```
+
 Install dependencies
 ```bash
 go mod tidy
