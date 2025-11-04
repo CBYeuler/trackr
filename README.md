@@ -18,6 +18,8 @@ go run main.go add gym "push day"
 ```
 
 ## Project Structure
+```bash
+
 trackr/
 ├── cmd/        # Cobra CLI commands
 │   ├── add.go
@@ -36,6 +38,7 @@ Clone the repo
 ```bash
 git clone https://github.com/CBYeuler/trackr.git
 cd trackr
+```
 ```
 Install dependencies
 ```bash
